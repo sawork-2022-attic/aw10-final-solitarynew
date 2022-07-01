@@ -1,0 +1,10 @@
+{
+  "simulation": "com.micropos.RecordedSimulation",
+  "simulationId": "recordedsimulation",
+  "start": 1656681590769,
+  "description": "",
+  "scenarios": ["TestPos"],
+  "assertions": [
+
+  ]
+}

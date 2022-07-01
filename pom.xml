@@ -12,6 +12,7 @@
 		<module>pos-order</module>
 		<module>pos-delivery</module>
 		<module>pos-api</module>
+		<module>pos-gatling</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
